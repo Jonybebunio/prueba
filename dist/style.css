@@ -1,0 +1,26 @@
+html{
+  
+   margin: 0 auto;
+   width: 400px;  
+  background-image: url("https://i.pinimg.com/474x/8e/6a/1a/8e6a1ac7b31a6677d438ee008f35bcd7.jpg"); 
+  color: gray;
+  
+  }
+body{
+  padding-bottom: 100px;
+}
+.titulo{
+  text-align: center;
+}
+img{
+    width: 400px;
+}
+p{
+  text-align: justify;
+}
+
+footer{
+  background-color: lightblue;
+  
+  
+}
